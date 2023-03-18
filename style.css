@@ -1,0 +1,19 @@
+[href^="https"] {
+    color: red;
+    }
+ul + p{
+    font-size: 24px;
+}
+
+#greycol {
+    color: grey;
+}
+.text-box > div > p {
+    color: red;
+}
+div + div + h3 + p {
+    color: green;
+}
+.yellow {
+    color: yellow;
+}
